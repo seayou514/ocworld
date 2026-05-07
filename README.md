@@ -14,6 +14,7 @@
 </br>
 <details>
 <summary>更新日誌</summary>  
+  
 ### v1.0.0
   1. 新增變數選項
   1. 新增文本
