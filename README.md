@@ -1,8 +1,8 @@
 ＞你是一位意外進入這世界的路人甲，歡迎你加入一號sita大宇宙！＜
 
 > [!important]
-> ！此遊戲仍在開發中！
-> [手機端點這裡開始遊戲](https://seayou514.github.io/OC_world/)
+> ！此遊戲仍在開發中！</br>
+> 手機端點選此處也可開始遊戲_(https://seayou514.github.io/OC_world/)
 
 > [!TIP]
 > 做的是自家OC跟無數平行宇宙的他們，的文字冒險遊戲。</br>
