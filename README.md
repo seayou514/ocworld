@@ -2,7 +2,7 @@
 
 > [!important]
 > ！此遊戲仍在開發中！</br>
-> 手機端點選此處也可開始遊戲_(https://seayou514.github.io/OC_world/)
+> [手機端可點選此處開始遊戲]_(https://seayou514.github.io/OC_world/)
 
 > [!TIP]
 > 做的是自家OC跟無數平行宇宙的他們，的文字冒險遊戲。</br>
